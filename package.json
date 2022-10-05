@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@shopify/shopify-api": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "typescript": "^4.8.4"
+  },
+  "name": "apps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}
